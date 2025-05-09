@@ -1,0 +1,9 @@
+INFO:     Will watch for changes in these directories: ['/content']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [14471] using StatReload
+INFO:     Started server process [14473]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     185.246.194.36:0 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.246.194.36:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     188.166.148.127:0 - "GET / HTTP/1.1" 404 Not Found
